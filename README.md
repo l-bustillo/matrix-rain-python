@@ -3,6 +3,8 @@
 A **Matrix-style digital rain animation** that runs right inside the terminal.  
 Built with **Python** and the `curses` library, with smooth fading trails, bold characters, and adjustable settings.
 
+Check out the Matrix rain animation in action:
+
 ![Matrix Demo](pythonmatrix.gif)
 
 ---
